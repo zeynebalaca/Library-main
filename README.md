@@ -20,9 +20,9 @@ Sistem, kullanıcı ve admin rollerine göre farklı yetkiler sunacak şekilde t
 ## Proje Raporu
 
 📄 Proje raporuna buradan ulaşabilirsiniz:  
-[PDF – Kütüphane Yönetim Sistemi Raporu](22290108_Zeyneb_Sude_Alaca.pdf)
+[PDF – Kütüphane Yönetim Sistemi Raporu](Kütüphane_Yönetim_Sistemi_Raporu.pdf)
 
 🎥 **Proje Tanıtım Videosu:**  
-[Google Drive Video Linki](https://drive.google.com/file/d/1eVLwDlOuk9tuBpUbP5DnzdXJji5I_ly/view?usp=sharing)
+[Google Drive Video Linki]([https://drive.google.com/file/d/1eVLwDlOuk9tuBpUbP5DnzdXJji5I_ly/view?usp=sharing](https://drive.google.com/file/d/1eVLwDlOuk9tuBpUbP-5DnzdXJji5I_ly/view?usp=sharing))
 
 
