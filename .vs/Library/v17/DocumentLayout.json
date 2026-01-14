@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Library-main\\Library-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633B51CB-C45D-420F-AB96-C48F5922E9AC}|Library.csproj|c:\\users\\lenovo\\desktop\\library-main\\library-main\\api\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633B51CB-C45D-420F-AB96-C48F5922E9AC}|Library.csproj|solutionrelative:api\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633B51CB-C45D-420F-AB96-C48F5922E9AC}|Library.csproj|c:\\users\\lenovo\\desktop\\library-main\\library-main\\pages\\admincategories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{633B51CB-C45D-420F-AB96-C48F5922E9AC}|Library.csproj|solutionrelative:pages\\admincategories.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminCategories.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Library-main\\Library-main\\Pages\\AdminCategories.aspx.cs",
+              "RelativeDocumentMoniker": "Pages\\AdminCategories.aspx.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Library-main\\Library-main\\Pages\\AdminCategories.aspx.cs",
+              "RelativeToolTip": "Pages\\AdminCategories.aspx.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:34:01.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Library-main\\Library-main\\Api\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Api\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Library-main\\Library-main\\Api\\CategoriesController.cs",
+              "RelativeToolTip": "Api\\CategoriesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAiwIcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T08:12:48.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
