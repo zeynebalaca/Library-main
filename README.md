@@ -1,4 +1,4 @@
-<img width="1482" height="928" alt="image" src="https://github.com/user-attachments/assets/ae405170-0a86-4dd4-9888-10233687416b" /># Library – Kütüphane Yönetim Sistemi
+
 
 Bu proje, ASP.NET Web Forms ve MSSQL kullanılarak geliştirilmiş bir kütüphane yönetim sistemi prototipidir.
 Sistem, kullanıcı ve admin rollerine göre farklı yetkiler sunacak şekilde tasarlanmıştır.
